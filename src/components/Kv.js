@@ -13,7 +13,7 @@ function Kv(){
                 <Row>
                     <Col sm={12} className="mx-auto">
                         <div className={Style.siteHeading}>
-                            <h1>Gatsby beginner</h1>
+                            <h1>こんにちは</h1>
                             <span>test string</span>
                         </div>
                     </Col>
